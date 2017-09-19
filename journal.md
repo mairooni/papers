@@ -18,5 +18,9 @@ We expected something different
 # Instrumentation 
 The Aerosol Mass spectometer is described in Allen et tu 2003
 
+
 # Conclusions 
 We have made great inroads to understanding the mechanism of particle formation. 
+# Results 
+Our simulations did a good job of reproducing the measures. This means we think we understant whats going on. This addresses question X from the introduction.
+
