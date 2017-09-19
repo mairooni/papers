@@ -1,6 +1,6 @@
 # Authors 
-Gerald Capes
-John Smith
+Gerald Capes UoM
+John Smith CSD
 
 #Titles
 Measurements of secondary yadi some new stuff merge it 
