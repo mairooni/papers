@@ -26,3 +26,6 @@ Our simulations did a good job of reproducing the measures. This means we think 
 
 # figures
 This section contains the figures cause it is still a draft
+
+#Acknoledgements 
+I want to thank the funding body
