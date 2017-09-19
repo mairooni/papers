@@ -1,6 +1,8 @@
-# Authors 
+# Authors
+John Smith CSD 
 Gerald Capes UoM
-John Smith CSD
+
+>>>>>>> e3f392bdc7a8b431b6c65740f54a934d4f295d5b
 
 #Titles
 Measurements of secondary yadi some new stuff merge it 
