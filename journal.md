@@ -1,6 +1,7 @@
-# Authors 
+# Authors
+John Smith 
 Gerald Capes
-John Smith
+
 
 #Titles
 Measurements of secondary yadi some new stuff merge it 
