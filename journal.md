@@ -15,4 +15,7 @@ We ran an atmosphheric model to simulate formations of particles
 # Results
 We expected something different
 
+# Instrumentation 
+The Aerosol Mass spectometer is described in Allen et tu 2003
+
 
